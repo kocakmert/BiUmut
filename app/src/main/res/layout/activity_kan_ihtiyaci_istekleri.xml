@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".kan_ihtiyaci_istekleri">
+    <RelativeLayout
+        android:id="@+id/dashboard"
+        android:background="@drawable/border_low_strong"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="150dp">
+        <ImageView
+            android:layout_marginTop="5dp"
+            android:id="@+id/logoos"
+            android:src="@drawable/administrator"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="1dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp" />
+        <View
+            android:layout_marginTop="10dp"
+            android:id="@+id/line4"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_below="@+id/logoos"
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@color/mav" />
+        <TextView
+            android:layout_below="@+id/line4"
+            android:id="@+id/teext_1"
+            android:gravity="center"
+            android:layout_marginTop="1dp"
+            android:textColor="@color/gri"
+            android:text="Yönetici"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_below="@id/teext_1"
+            android:id="@+id/name"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:layout_marginTop="2dp"
+            android:textColor="@android:color/black"
+            android:text="admin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/btn_back"
+            android:background="@drawable/ic_action_namemain"
+            android:layout_marginBottom="30dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_below="@id/dashboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/border_low_strong">
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </ListView>
+    </RelativeLayout>
+</RelativeLayout>

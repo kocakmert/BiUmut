@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#cc3131</color>
+    <color name="colorAccent">#cc3131</color>
+    <color name="colorText">#1984b4</color>
+    <color name="colorPrimaryDark2">#cc3131</color>
+    <color name="colorPrimary2">#63807B</color>
+    <color name="iconbackdash">#d8d8d8 </color>
+    <color name="toprela">#D1C9C9 </color>
+    <color name="siyah">#000000</color>
+    <color name="mav">#4F76C5</color>
+    <color name="ColorRed">#FF3943</color>
+    <color name="ColorDarkRed">#801b20</color>
+    <color name="FormSecond">#fdefed</color>
+    <color name="Toolbar">#CAFFCD</color>
+    <color name="exit_popup">#FFCAF8</color>
+    <color name="view">#040078</color>
+    <color name="gri">#d2d2d2</color>
+    <color name="background">#f1f3f4</color>f1f3f4
+</resources>

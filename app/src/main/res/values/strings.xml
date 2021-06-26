@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BiUmut</string>
+    <string name="pop_upexit_text">Çıkış Yapmak İstediğinizden Emin Misiniz?</string>
+    <string name="pop_upexit_text_title">DİKKAT...  </string>
+    <string name="pop_up_try_again_title">UYARI..</string>
+    <string name="pop_up_try_again_text">Geri Bildirimler İçin Form Bölgesindeki Bilgilerinizi Güncel Tutunuz.  </string>
+    <string name="info1">  Bu uygulamayı kullanmadan önce aşağıdaki açıklamaları lütfen dikkatlice Okuyunuz! </string>
+    <string name="info2"> Unutmayınız ki bağışlayacağınız kan,korumasız,şuuru kapalı,kanı reddetme şansı olmayan bir kişiye veya yeni doğmuş
+    bir bebeğe verilebilir.</string>
+    <string name="info3"> Aşağıdaki Durumlardan Biri Sizin İçin Geçerli ise Lütfen Kan Vermekten Vazgeçin!</string>
+    <string name="info4"> Sebebi açıklanamyan ateş , kilo kaybı , gece terlemesi , büyümüş lenf bezi veya kitlesi , deride mor lekeler , ağız ve boğazda beyaz
+    döküntüler,uzun süren ve iyeleşmeyen öksürük veya ishaliniz varsa.</string>
+    <string name="info5"> Frengi(sifilis),bel soğukluğu gibi cinsel yolla bulaşan hastalık geçirmişseniz ve 1 yılda böyle biriyle cinsel ilişkide bulunmuşsanız.</string>
+    <string name="info6">Geçmişte damar yolu ile uyuşturucu kullanmışsanız veya halen kullanmaktaysanız.</string>
+    <string name="info7">Hemofili hastası veya pıhtılaşma probleminiz olmuşsa ya da bu kişilerle son 1 yılda cinsel ilişkide bulunmuşsanız kan vermekten vazgeçiniz!</string>
+    <string name="info8">Kimler Kan Bağışında Bulunabilir?</string>
+    <string name="info9">18 ile 65 yaş arasında olanlar kan bağışlayabilir.Daha önce kan bağışı yapmamaış olanlar,60 yaşına kadar kan bağışı yapabilirler.</string>
+    <string name="info10">Nabız düzenli ve dakikada 50 ile 100 arasında olmalıdır.</string>
+    <string name="info11">Kadınlar,son 1 yılda içerisinde en fazla 3,erkekler ise en fazla 4 kez tam kan bağışında bulunabilirler.</string>
+    <string name="underline_string"><u>En Son Arama Bilgileri</u></string>
+    <string name="underline_string1"><u>Kullanıcı Bilgileri:</u></string>
+</resources>
